@@ -1,0 +1,26 @@
+Basics of Computer:
+Disk-cheaper and large memory
+RAM-Faster than disk and costly
+CPU-controls all the activites of the computer and only undertands 0s and 1s
+   -It refers cache,RAM,Disk to responds the client's request.
+DNS:
+    DNS stands for Domain Name System.  
+TCP:
+    stands for Transaction control protocol.
+    compare to udp, tcp was slower.
+    TCP uses the synchronization and acknowledgement from client and server.
+UDP:
+    compared to tcp, more faster.
+    It uses the request and response from client and server.
+    The data lose through the packets occurs in the UDP.
+API:
+    Application Program Interface.
+    REST is the mostly used API in now a days.
+    In REST we use Get,Put,Post,Delete.
+CDN:
+    Content Delivery Network
+Git:
+    used to store the files inside our own System,only we can access.
+    Git will commit the code to the Github, used for the version control.
+Github & Gitlab:
+    This will be used by everyone(public).
