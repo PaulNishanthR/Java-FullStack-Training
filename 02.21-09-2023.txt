@@ -1,0 +1,9 @@
+HTML
+    I learned about the basic and some advanced, importand tags
+    Done some small web page
+
+CSS:
+    In CSS I learned about the important styles like flex.
+    In flex Ihave learned the justify-content and text-align styles.
+
+I'm done some small styles in CSS
