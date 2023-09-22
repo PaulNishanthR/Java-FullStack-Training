@@ -1,0 +1,6 @@
+I have done a assignment that uses HTML and CSS .
+In that assignment I've done a web page clone from the ICC Cricket World Cup.
+In HTML file I've used div blocks .
+On the other side I've used the flex properties for the respective div blocks.
+In the flex properties, I have faced so many errors and I have solved my errors with the help of my trainer and friends.
+After solving the errors I've mostly done a clone web page for ICC.
