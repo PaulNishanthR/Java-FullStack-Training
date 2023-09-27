@@ -1,0 +1,12 @@
+I have learned the bootstrap today.
+Using bootstrap I've developed a simple web page for mobile shopping.
+I have learned the JavaScript today.
+In JavaScript the topics I've learned:
+    operators
+    variables
+    data types
+    functions
+    map reduce and Filter
+    looping
+    conditional statements
+    promise(resolve and reject)
