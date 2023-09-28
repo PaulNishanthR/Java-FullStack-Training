@@ -1,0 +1,4 @@
+Today I have learned a todo application using javascript.
+And then I've create a Login page using Bootstrap.
+Then I'm started a phone address book page with the reference of the todo application.
+I'm partially done that addressbook application.
