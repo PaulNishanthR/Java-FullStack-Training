@@ -1,0 +1,8 @@
+In the morning session I have learned the JavaScript properties that I wil be used in the future most.
+After that I've done the below programs using JavaScript:
+    1. Adding three numbers
+    2. CM to M convertor
+    3. EMI calculator
+    4. Amount spreading
+    5. Changing the button color
+In the evening session the trainer shows the complete UI design of a random E-commerce application.
