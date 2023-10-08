@@ -1,0 +1,5 @@
+1. Today I made the rest of the UI in the e-commerce website that I was assigned to do.
+2. Then I did the login validation for te UI.
+3. I did the signup validation for the UI.
+4. In the process I learned the common mistakes that includes the syntex errors and some logical errors I did the Javascript.
+5. And I'm still working on myself to work good in Javascript.
