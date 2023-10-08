@@ -1,0 +1,4 @@
+1. Today I have completed the add to cart button in the home and made it to display it in local storage with Javascript.
+2. Then I completed the add to cart icon in the home page with Javascript.
+3. In the process of I made lot of mistakes.
+4. There is still a lot to learn from my mistakes in Javascript.
