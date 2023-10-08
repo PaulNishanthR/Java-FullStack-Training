@@ -1,0 +1,5 @@
+1. Today I completes the user home page with Javascript.
+2. Then I completed the admin home page with Javascript.
+3. In the process I made lot of mistakes.
+4. And I learned how to resolves that mistakes and learned how to avoid those mistakes.
+5. Learned to debug the mistakes in Javascript using console.log
