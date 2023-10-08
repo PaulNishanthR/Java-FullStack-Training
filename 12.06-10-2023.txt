@@ -1,0 +1,5 @@
+1. Today I tried to complete the updating order page in user side with the help of Javascript.
+2. In which I failed to do the process with some errors.
+3. I hosted my e-commerce site as E-Shopping as the given time came to end for completing ecommerce website.
+4. As far as now I have the pending work on the e-commerce(E-Shopping) site such as user order page and admin order page.
+5. Still I need to put some work in learning Javascript.
