@@ -1,0 +1,6 @@
+1. Today I saw the visual work on how Javascript works on a e-commerce website.
+2. In which I learnt how login and signup validation pages.
+3. And how the products displayed in home page and admin page.
+4. Then how add to cart function works with Javascript.
+5. How to make edit and delete function with Javascript.
+6. And I made a UI for login and register(signup) page.
