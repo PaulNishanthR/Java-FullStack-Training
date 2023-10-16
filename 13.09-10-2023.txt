@@ -1,0 +1,5 @@
+1. Today I learned the basic concepts of Typescript.
+2. I done the small small tasks in Typescript.
+3. In that tasks I made the some syntax errors .
+4. With the help of my friends and trainer I've rectify the error after that I done a small task Without any error.
+5. Finally I done a ToDo Application using Typescript.
