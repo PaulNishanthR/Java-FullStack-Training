@@ -1,0 +1,6 @@
+1. Today I know how to create and use constructor in Typescript.
+2. The trainer done a small application using constructor.
+3. After that the trainer shows how to create a attendance system using Typescript.
+4. In that attendance system there are two sections are there called teacher section and student section.
+5. The attendance system consists of the Date() constructor to perform the attendance using date.
+6. The teacher have the edit and update option in the system that updates the attendance and roll number of the student. 
