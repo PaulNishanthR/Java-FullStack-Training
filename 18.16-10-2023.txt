@@ -1,0 +1,7 @@
+1. Today I learned the routing in Angular.
+2. Using app routing I done a small UI that purposing a simple e-commerce site.
+3. Using login validation I done a login form validation in Angular site.
+4. For login validation I've created two service files called storage service and auth service.
+5. The login component was done by using onSubmit() function.
+6. Followed by the login page I started the register(signup) page.
+7. For the register page I did the validation.
