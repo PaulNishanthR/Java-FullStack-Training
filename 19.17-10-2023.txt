@@ -1,0 +1,15 @@
+Angular:
+1. Today I learned the canActivate method in Angular.
+2. Using canActivate I did the functions called setLoggedInUser,removeLoggedInUser, isUserLoggedIn functions.
+3. And I know about the guard file.
+4. Auth-Guard is a functional component file.
+5. Did the addToCart() function.
+6. I knows the flow of the angular program like on which file we need to wrote the logics and which files we need to call that logic.
+Services:
+    storageService
+    authService
+    productService
+    cartService
+Models:
+    user.ts
+    product.ts
