@@ -1,0 +1,5 @@
+1. Today I learned addToCart() function.
+2. and I done the small tasks on it.
+3. Then I do the addToCart.
+4. For addToCart I used cart and product arrays also loggedInUser function.
+5. I get the cartCount on the console. 
