@@ -1,0 +1,24 @@
+Today I learned Java basics.
+
+JAVA concepts: 
+----------------------
+   *Objects
+   *Class
+   *Method
+   *Override
+   *Interface
+   *Abstract
+   *Thread
+   *Date
+   *Exception
+   *Collection
+
+ 
+
+   *AutoBoxing and UnBoxing
+   *Upcasting and downCasting
+   *Date formatting
+
+ 
+
+- Finally , Push to Github.
