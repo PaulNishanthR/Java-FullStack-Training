@@ -1,0 +1,14 @@
+Spring-Boot concepts:
+    1. Tightly coupled,loosly coupled.
+    2. Inversion of control.
+    3. Dependency Injection - constructor Injection,setter method.
+    4. @component, @Autowired, @primary, @Quality, @Autowired name.
+    5. CDI-@Named,@Inject.
+    6. @configuration & @componentation -> @SpringBootApplication.
+    7. @scope->singleton & prototype.
+    8. LifeCycle of bean ( @postConstruct , @PreDestroy).
+    9. AnnotationsApplicationContext.
+    10. @RestController, @Requestbody, @pathVariable, @GetMapping, @postMapping, @DeleteMapping, @PullMapping.
+    11. data.sql file
+    12. JdbcTemplate.
+    13. application property.
