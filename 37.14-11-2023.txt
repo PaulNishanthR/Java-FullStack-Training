@@ -1,0 +1,59 @@
+started project
+Home Appliances and electronics rental system
+=============================================
+project flow
+     1.Model
+       -Role
+       -AppUser
+       -address
+       -product
+       -cart
+       -category
+       -order
+       -orderedProduct(a copy of the user's order)
+       -orderstatus
+
+    2.Admin
+    Controller
+       1.AdminCategorycontroller(getallcategory,create,update,delete)
+       2.adminproductcontroller(getallproduct,create,delete,update)
+       3.adminordercontroller(getallorder,getuserorder,getallstatus,updatestatus)
+       4.adminusercontroller(getalluser)
+    service
+       1.addressservice
+       2.categoryservice
+       3.orderservice
+       4.cartservice
+       5.productservice
+       6.userservice
+       7.userdetailsserviceimpl
+    Dto(Data transfer object)
+       1.addressdto
+       2.categorydto
+       3.orderdto
+       4.productdto
+       5.authdto
+    Response
+        1.addressresponse
+        2.authresponse
+        3.categoryresponse
+        4.orderresponse
+        5.productresponse
+        6.userresponse
+
+    Request
+        1.addressrequest
+        2.loginrequest
+        3.registerrequest
+        4.categoryrequest
+        5.productrequest
+        6.cartrequest 
+        7.orderrequest
+        8.orderstatusrequest
+
+
+Controller-->service-->respository-->Dto
+              
+Response(backend to frontend)
+Request(frontend request)
+                
