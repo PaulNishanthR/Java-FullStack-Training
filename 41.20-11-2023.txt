@@ -1,0 +1,15 @@
+Home Appliances Rental system project
+*Started with the front-end part of the project using angular.
+        - Components 
+            1. Login 
+            2. Register 
+            3. Home 
+            4. Admin - Category
+            5.       - Products
+            6.       - Users
+            7.       - Orders
+            8. cart
+            9. order
+        - Added Router to the components for the navigations.
+        - Included the required forms.
+        - Added custom and lottie animations 
