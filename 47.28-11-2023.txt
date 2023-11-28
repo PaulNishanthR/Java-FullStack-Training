@@ -2,6 +2,15 @@ Home appliances rental system project continuos...
 
 Done the tasks:
     Add to cart(Get api)
+    View address(get api)
     Add address(Post api)
     Edit address(put api)
     Delete address(delete api)
+    User create order(post api)
+    Admin order --> Get all orders
+                --> Get order using userId
+                --> Get order status
+                --> Change order status
+
+Tasks to be done:
+    Admin add products with using photos,edit products
