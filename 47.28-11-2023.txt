@@ -1,0 +1,7 @@
+Home appliances rental system project continuos...
+
+Done the tasks:
+    Add to cart(Get api)
+    Add address(Post api)
+    Edit address(put api)
+    Delete address(delete api)

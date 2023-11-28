@@ -30,7 +30,7 @@ delete-->http://localhost:8080/api/admin/product/productId
 
 5.user view product
 ------------------------------------------------
-get-->http://localhost:8080/api/ArtWork/all
+get-->http://localhost:8080/api/product/all
 
 6.user cart product
 ------------------------------------------------
