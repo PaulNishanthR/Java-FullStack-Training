@@ -1,0 +1,9 @@
+Home appliances rental System 
+--------------------------------------
+    *Continued with the integration part of back end and front end  
+        - Saved images in the server and and added the file name to the database.
+        - Accessed the images from the database and loaded it in the front end.
+        - Made few changes in the UI.
+        - Done the user side 70%.
+        - Done the address side.
+        
