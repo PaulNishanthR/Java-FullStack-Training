@@ -1,0 +1,10 @@
+Home appliances and rental system project continuos
+------------------------------------------------------
+    *Continued with the integration part of back end and front end  
+        - Integrated POST methods
+            -> POST user cart 
+
+        - Enchanced routes for the component.
+        - Enchanced logics.
+        - Stored routing details of the user for stopping page navigation after refresh.
+        - Enchanced UI for few pages.
