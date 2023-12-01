@@ -1,0 +1,16 @@
+Continuos of the mini project
+  worked with UI
+
+  user
+      1.changed some project theme
+      2.check add to cart funcitionality
+      3.order page
+      4.new added product delivery details page in that i added address details
+
+  admin
+      1.changed admin side navbar
+      2.user details added
+      3.product view page ,add product and edit
+      4.similar to cataegory page
+      5.order details show page
+      6.change the order status

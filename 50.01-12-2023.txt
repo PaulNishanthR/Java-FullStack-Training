@@ -1,0 +1,10 @@
+Continous of the Project...
+New topics:
+    Struct
+    lazy loading
+    custom valiadtion
+
+Made styles for the UI.
+Final integration and checking for the project.
+    - Add Readme file in the github.
+    - Recording the project working model video.
