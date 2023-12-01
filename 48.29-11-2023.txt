@@ -1,0 +1,11 @@
+Home appliances rental System 
+    *Continued with the back end and front end integration.
+        - Loaded data to the database.
+        - Made UI changes.
+        - Made backend changes for photo uploading in storageService,AdminProductController,ProductService
+
+    *Yet to complete 
+        - Navbar and sidebar enchancement.
+        - UI changes for 
+            -> Admin pages 
+            -> User pages 
